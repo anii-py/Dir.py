@@ -90,5 +90,5 @@ except KeyboardInterrupt:
     print('[!] KeyboardInterrupt-->Reason : User Declined . ')       # interactive response to keyint
 
 
-#----------------------- CODED BY: H4wK! ---------------------V-1.2-------------# 
+#----------------------- CODED BY: lon3r ---------------------V-1.2-------------# 
 #                 Github:https://github.com/H4wK-101/
