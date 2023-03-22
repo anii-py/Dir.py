@@ -12,7 +12,7 @@
 
 
 ```
-git clone https://github.com/anii-py/Dir.py.git
+git clone https://github.com/redtrib3/Dir.py.git
 
 chmod +x dir.py
 ```
