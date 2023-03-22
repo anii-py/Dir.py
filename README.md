@@ -7,8 +7,6 @@
  Anyone with a low-end old computer finds difficulty running directory brute forcing tools like Gobuster,Dirsearch(they are all good tools) .I indeed had
  had that problem as well . so i made a simple python script to do so . Pull requests are always welcome.
  
- 
-## Pictures:
 
 ## How to Install:
 
